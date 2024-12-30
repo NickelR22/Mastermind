@@ -1,0 +1,4 @@
+repository "Mastermind2/Mastermind2@20066554873415@cloud"
+  path "/"
+    br "/main"
+    co "/main"
